@@ -1,0 +1,6 @@
+@import url(chrome/tabs_on_bottom_v2.css);
+@import url(chrome/compact_proton.css);
+@import url(chrome/shrinking_pinned_tabs.css);
+@import url(chrome/multi-row_bookmarks.css);
+
+* { border-radius: 0 !important; }
